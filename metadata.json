@@ -1,0 +1,6 @@
+{
+  "name": "CineWave - Đặt Vé & Sơ Đồ Chỗ Ngồi Rạp Chiếu Phim",
+  "description": "Nền tảng đặt vé xem phim trực tuyến với sơ đồ chọn ghế trực quan (tiêu chuẩn, VIP, ghế đôi), tóm tắt giỏ hàng, bảng quản trị phim và quản lý người dùng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
